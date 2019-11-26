@@ -1,6 +1,6 @@
 # ebook-demo
 
-> A Vue.js project
+一个手机阅读器，实现电子书的阅读功能，如设置字号，设置主题，调整阅读进度，目录
 
 ## Build Setup
 
@@ -24,4 +24,4 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
